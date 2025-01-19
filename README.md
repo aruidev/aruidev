@@ -8,4 +8,5 @@ Proyectos en DAW: En mi repositorio 'daw', subo todos los proyectos relacionados
 Puedes enviarme un mensaje a través de correo electrónico a arucadev@gmail.com.
 
 ### 🔗 Mis enlaces:
-[Portfolio](https://arucadev.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/alex-ruiz-castillo-133682211/)
+- [Portfolio](https://arucadev.github.io/)
