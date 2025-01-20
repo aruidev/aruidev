@@ -9,4 +9,4 @@ Puedes enviarme un mensaje a través de correo electrónico a arucadev@gmail.com
 
 ### 🔗 Mis enlaces:
 - [LinkedIn](https://www.linkedin.com/in/alex-ruiz-castillo-133682211/)
-- [Portfolio](https://arucadev.github.io/)
+- [Live Portfolio](https://arucadev.github.io/)
