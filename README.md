@@ -1,5 +1,5 @@
 # ¡Hola, soy Alex! 👋
-#### Soy un desarrollador web en formación, actualmente estudiando un ciclo superior en Desarrollo Web. <br/>Descubre más sobre mí visitando mi [página web](https://arucadev.github.io/).
+### Soy un desarrollador web en formación, actualmente estudiando un ciclo superior en Desarrollo Web. <br/>Descubre más sobre mí visitando mi [página web](https://arucadev.github.io/).
 
 <div align="left">
   <br/>
@@ -20,7 +20,7 @@
 ## 🔭 Actualmente trabajando en:
 #### Proyectos de DAW: En este [repositorio](https://github.com/arucadev/daw), subo todos los proyectos relacionados con mi grado de programación. Pueden ser desde ejercicios simples hasta aplicaciones completas.</p>
 
-## 📫 Contáctame
+## 📫 Contáctame:
 #### Envíame un correo electrónico a **arucadev@gmail.com** o un mensaje directo a través de [LinkedIn](https://www.linkedin.com/in/arucadev/).
 
 <div align="left">
@@ -32,5 +32,5 @@
   </a>
 </div>
 
-## 🛠️ Observa mi trabajo
-#### 🔗 [Live Portfolio](https://arucadev.github.io/)
+## 🛠️ Observa mi trabajo:
+### 🔗 [Live Portfolio](https://arucadev.github.io/)
