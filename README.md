@@ -32,5 +32,5 @@
   </a>
 </div>
 
-## 🛠️ Visita mi portafolio
+## 🛠️ Observa mi trabajo
 ### 🔗 [Live Portfolio](https://arucadev.github.io/)
