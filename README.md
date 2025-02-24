@@ -18,7 +18,7 @@
 </div>
 
 ## 🔭 Actualmente trabajando en:
-### Proyectos de DAW: En este [repositorio](https://github.com/arucadev/daw), subo todos los proyectos relacionados con mi grado de programación. Pueden ser desde ejercicios simples hasta aplicaciones completas.</p>
+### [Proyectos de DAW](https://github.com/arucadev/daw): En este repositorio, subo todos los proyectos relacionados con mi grado de programación. Pueden ser desde ejercicios simples hasta aplicaciones completas.</p>
 
 ## 📫 Contáctame:
 ### Envíame un correo electrónico a **arucadev@gmail.com** o un mensaje directo a través de [LinkedIn](https://www.linkedin.com/in/arucadev/).
