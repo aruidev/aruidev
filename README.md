@@ -1,5 +1,5 @@
 # ¡Hola, soy Alex! 👋
-### Soy un desarrollador web en formación, actualmente estudiando un ciclo superior en Desarrollo Web. <br/>Descubre más sobre mí visitando mi [página web](https://arucadev.github.io/).
+### Soy un desarrollador web en formación, actualmente estudiando un ciclo superior en Desarrollo Web. <br/>Descubre más sobre mí visitando mi página web: [aruca.dev](https://aruca.dev/es/).
 
 <div align="left">
   <br/>
@@ -32,5 +32,4 @@
   </a>
 </div>
 
-## 🛠️ Observa mi trabajo:
-### 🔗 [Live Portfolio](https://arucadev.github.io/)
+### 🔗 [aruca.dev](https://aruca.dev/es/)
