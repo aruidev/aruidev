@@ -32,4 +32,6 @@
   </a>
 </div>
 
+### También puedes preguntarle cualquier cosa sobre mí a mi asistente de inteligencia artificial, Aruca AI, aquí: 
+
 ### 🔗 [aruca.dev](https://aruca.dev/es/)
