@@ -32,6 +32,6 @@
   </a>
 </div>
 
-### Descubre más sobre mí (o chatea con mi asistente IA 🤖) aquí: 
+### Descubre más sobre mí aquí: 
 
 ### 🔗 [aruca.dev](https://aruca.dev/es/)
