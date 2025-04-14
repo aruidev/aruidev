@@ -32,6 +32,4 @@
   </a>
 </div>
 
-### Descubre más sobre mí aquí: 
-
 ### 🔗 [aruca.dev](https://aruca.dev/es/)
