@@ -1,5 +1,5 @@
 # ¡Hola, soy Alex! 👋
-### Soy un desarrollador web en formación, actualmente estudiando un ciclo superior de DAW. <br/>Descubre más sobre mí visitando mi página web: [aruca.dev](https://aruca.dev/es/).
+### Soy desarrollador web en formación, actualmente estudiando un ciclo superior de DAW. <br/>Descubre más sobre mí visitando mi página web: [aruca.dev](https://aruca.dev/es/).
 
 <div align="left">
   <br/>
@@ -16,9 +16,6 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  
 
 </div>
-
-## 🔭 Actualmente trabajando en:
-### [Proyectos de DAW](https://github.com/arucadev/daw): En este repositorio, subo todos los proyectos relacionados con mi grado de programación. Pueden ser desde ejercicios simples hasta aplicaciones completas.</p>
 
 ## 📫 Contáctame:
 ### Envíame un correo electrónico a **arucadev@gmail.com** o un mensaje directo a través de [LinkedIn](https://www.linkedin.com/in/aruidev/).
