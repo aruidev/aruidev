@@ -1,5 +1,5 @@
-# Hola, soy Alex 
-### Soy desarrollador web en formación, actualmente estudiando un ciclo superior de DAW. <br/>Descubre más sobre mí visitando mi página web: [aruca.dev](https://aruca.dev/es/).
+# Hi, I'm Alex!
+### I am a web developer in training, currently studying a Higher Education program in Web Development (DAW). <br/> Learn more about me by visiting my website: [aruca.dev](https://aruca.dev/es/).
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -23,8 +23,8 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
 </div>
 
-## 📫 Contáctame:
-### Envíame un correo electrónico a **arucadev@gmail.com** o un mensaje directo a través de [LinkedIn](https://www.linkedin.com/in/aruidev/).
+## 📫 Contact me:
+### Send me an email at **arucadev@gmail.com** or a direct message via [LinkedIn](https://www.linkedin.com/in/aruidev/).
 
 <div align="left">
   <a href="mailto:arucadev@gmail.com" target="_blank">
