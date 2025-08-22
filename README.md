@@ -1,4 +1,4 @@
-# Hi, I'm Alex!
+# Hi, I'm Alex
 ### Aspiring web developer, currently studying a Higher Education program in Web Development (DAW). <br/> Learn more about me by visiting my website: [aruca.dev](https://aruca.dev/es/).
 
 <div align="left">
