@@ -24,10 +24,10 @@
 </div>
 
 ## 📫 Contact me:
-### Send me an email at **arucadev@gmail.com** or a direct message via [LinkedIn](https://www.linkedin.com/in/aruidev/).
+### Send me an email at **echo.aruidev@gmail.com** or a direct message via [LinkedIn](https://www.linkedin.com/in/aruidev/).
 
 <div align="left">
-  <a href="mailto:arucadev@gmail.com" target="_blank">
+  <a href="mailto:echo.aruidev@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/arucadev/" target="_blank">
