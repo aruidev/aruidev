@@ -1,5 +1,5 @@
 # Hi, I'm Alex
-### Aspiring web developer, currently studying a Higher Education program in Web Development (DAW). <br/> Learn more about me by visiting my website: [aruca.dev](https://aruca.dev/es/).
+### Aspiring web developer, currently studying a Higher Education program in Web Development (DAW). <br/> Learn more about me by visiting my website: [arui.dev](https://aruidev.vercel.app/es/).
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
