@@ -1,5 +1,5 @@
 # Hi, I'm Alex
-### Aspiring web developer, currently studying a Higher Education program in Web Development (DAW). <br/> Learn more about me by visiting my website: [arui.dev](https://aruidev.vercel.app/es/).
+### Aspiring web developer, currently studying a Higher Education program in Web Development (DAW). <br/> Learn more about me by visiting my website: [aruidev.com](https://aruidev.com).
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -35,4 +35,4 @@
   </a>
 </div>
 
-### 🔗 [arui.dev](https://aruidev.vercel.app/)
+### 🔗 [aruidev.com](https://aruidev.com)
