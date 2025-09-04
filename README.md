@@ -35,4 +35,4 @@
   </a>
 </div>
 
-### 🔗 [aruca.dev](https://aruca.dev/es/)
+### 🔗 [arui.dev](https://aruidev.vercel.app/)
