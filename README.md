@@ -1,5 +1,4 @@
-# Hi, I'm Alex,
-web developer.
+# Hi, I'm Alex
 ### I'm passionate about building software, amazing web apps, and UX/UI design.
 ### Learn more about me by visiting my website: [aruidev.com](https://aruidev.com).
 
