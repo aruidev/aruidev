@@ -1,5 +1,7 @@
-# Hi, I'm Alex
-### Aspiring web developer, currently studying a Higher Education program in Web Development (DAW). <br/> Learn more about me by visiting my website: [aruidev.com](https://aruidev.com).
+# Hi, I'm Alex,
+web developer.
+### I'm passionate about building software, amazing web apps, and UX/UI design.
+### Learn more about me by visiting my website: [aruidev.com](https://aruidev.com).
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
