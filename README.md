@@ -1,7 +1,6 @@
 # Hi, I'm Alex
 ### I'm passionate about building software, amazing web apps, and UX/UI design.
-### Learn more about me by visiting my website: [aruidev.com](https://aruidev.com).
-
+### Experience working with a diverse set of technologies.
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -23,6 +22,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
 </div>
+
+### Learn more about me by visiting my website: [aruidev.com](https://aruidev.com).
 
 ## 📫 Contact me:
 ### Send me an email at **echo.aruidev@gmail.com** or a direct message via [LinkedIn](https://www.linkedin.com/in/aruidev/).
